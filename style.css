@@ -73,3 +73,6 @@ p {
   justify-content: flex-end;
   margin-right: 550px;
 }
+.service {
+  padding: 40px;
+}
